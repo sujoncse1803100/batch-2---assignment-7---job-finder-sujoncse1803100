@@ -1,0 +1,39 @@
+{
+  "jobs": [
+    {
+      "type": "Internship",
+      "salary": "6000000",
+      "deadline": "2023-03-18",
+      "title": "Software Developer",
+      "id": 1
+    },
+    {
+      "type": "Remote",
+      "salary": "40000000",
+      "deadline": "2023-03-18",
+      "title": "Frontend Developer",
+      "id": 2
+    },
+    {
+      "type": "Full Time",
+      "salary": "10000000",
+      "deadline": "2023-03-25",
+      "title": "Full Stack Developer",
+      "id": 3
+    },
+    {
+      "type": "Internship",
+      "salary": "789000",
+      "deadline": "2023-03-13",
+      "title": "IOS App Developer",
+      "id": 4
+    },
+    {
+      "type": "Full Time",
+      "salary": "50000000",
+      "deadline": "2023-04-08",
+      "title": "Senior Executive",
+      "id": 5
+    }
+  ]
+}
